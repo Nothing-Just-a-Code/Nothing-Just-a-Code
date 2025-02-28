@@ -1,3 +1,6 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Nothing-Just-a-Code&color=blue)
+
+
 # 👋 Hi, I'm NJAC!
 
 🌟 **About Me**  
@@ -6,6 +9,6 @@
 - 📫 Reach me at: `chaosdusk@proton.me`
 
 ---
+![GitHub followers](https://img.shields.io/github/followers/Nothing-Just-a-Code?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Nothing-Just-a-Code?style=social)
 
-📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nothing-Just-a-Code&show_icons=true&theme=radical)
