@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Nothing-Just-a-Code&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Nothing-Just-a-Code&color=blue&style=for-the-badge)
 
 
 # 👋 Hi, I'm NJAC!
